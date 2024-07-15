@@ -1,0 +1,15 @@
+
+.list-group-item {
+    margin: 20px;
+    width: 300px;
+    border: none
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+label {
+    margin: 5px;
+}
